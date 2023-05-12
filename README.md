@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi there 👋 I'm Cecilia!</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-perfil-linkedin/">LinkedIn</a> •
-  <a href="https://twitter.com/seu-perfil-twitter">Twitter</a>
+  <a href="https://www.linkedin.com/in/seu-perfil-linkedin/">LinkedIn</a> 
 </p>
 
 <div align="center">
