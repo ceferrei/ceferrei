@@ -1,11 +1,12 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
-<h1 align="center">Hi there 👋 I'm Cecilia!</h1>
-<p align="center">
-  <a href="https://www.linkedin.com/in/seu-perfil-linkedin/">LinkedIn</a> 
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Cecilia+Marçal;I'm+26+years+old;I'm+from+Portugal;)](https://git.io/typing-svg)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceferrei&layout=compact&theme=radical" alt="ceferrei's top languages">
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ceferrei&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ceferrei/github-readme-activity-graph)
+
+<div align="center">  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbarbosa101&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
 <h2>About me...</h2>
@@ -18,5 +19,10 @@ I am committed to continuous growth and improvement, and I take pride in my abil
 
 In short, I am a dedicated and ambitious student with a passion for programming and a thirst for knowledge. I am excited to continue my journey as a developer and to contribute to the vibrant and supportive community here on GitHub.
 
-![Profile views](https://komarev.com/ghpvc/?username=ceferrei&color=blueviolet)
+
+<div align="center">
+<br><p align="centre"><b>Profile views</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{carolbarbosa101}/count.svg" /></p> 
+<br>
+</div>
 
