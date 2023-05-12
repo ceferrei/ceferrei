@@ -17,3 +17,6 @@ As a curious and motivated learner, I have pursued additional training in Python
 I am committed to continuous growth and improvement, and I take pride in my ability to adapt to new challenges and technologies. With a positive and proactive attitude, I am always eager to take on new opportunities and collaborate with others to achieve our shared goals.
 
 In short, I am a dedicated and ambitious student with a passion for programming and a thirst for knowledge. I am excited to continue my journey as a developer and to contribute to the vibrant and supportive community here on GitHub.
+
+![Profile views](https://komarev.com/ghpvc/?username=ceferrei&color=blueviolet)
+
