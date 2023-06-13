@@ -3,10 +3,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Cecilia+Marçal;I'm+26+years+old;I'm+from+Portugal;)](https://git.io/typing-svg)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ceferrei&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ceferrei/github-readme-activity-graph)
 
-<div align="center">  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceferrei&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ceferrei&bg_color=000000&color=b65870&line=753340&point=935c6b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+  <a href="https://github.com/ceferrei">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceferrei&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
 </div>
 
 <h2>About me...</h2>
@@ -24,5 +27,7 @@ In short, I am a dedicated and ambitious student with a passion for programming 
 <br><p align="centre"><b>Profile views</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ceferrei}/count.svg" /></p> 
 <br>
+  
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
 
